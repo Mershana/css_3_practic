@@ -1,0 +1,53 @@
+
+/* color:blue синий цвет
+	text-align:center текст по центру
+	width 500px ширина объекта
+	font-size: 40px размер шрифта*/
+
+h1{
+	color: blue;
+	text-align: center;
+	width: 500px; 
+	font-size: 40px;
+}
+
+h2{
+	/* color green установил зеленый цвет
+		text-algin: center поставил текст по центру
+		width 500px задал ширину объекта 500рх
+		font-size 30px задал 30рх размер текста
+		font-weight normal убрал жирность у заголовка*/
+	color: green; 
+	text-align: center;
+	width: 500px;
+	font-size: 30px;
+	font-weight: normal;
+}
+
+/* width: 500px задал ширину объекта 500рх
+	text-alagin: justify поставил выравнивание по левому и правому краю
+	font-size:16px задал размер шрифта
+	line-height: 25px установил пространство 25рх между строками
+	font-family: arial задал стиль текста
+	text-indent:40px  установил 40рх абзац
+	 */
+p{
+	width: 500px;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 25px;
+    font-family: Arial;
+    text-indent: 40px;
+}
+/* width: 400px ширина объекта
+	text-align justify поставил текст по центру
+	font-size: 16px размер шрифта
+	line-heigth:20px пространство между строками
+	*/
+ul {
+	width: 400px;
+	text-align: justify;
+	font-size: 16px;
+	line-height: 20px;
+
+}
